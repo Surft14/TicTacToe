@@ -1,0 +1,3 @@
+D:\c++project\TicTacToe\TicTacToe\x64\Debug\TicTacToe.vcxproj.AssemblyReference.cache
+D:\c++project\TicTacToe\TicTacToe\x64\Debug\TicTacToe.MyTTT.resources
+D:\c++project\TicTacToe\TicTacToe\x64\Debug\TicTacToe.vcxproj.GenerateResource.cache
